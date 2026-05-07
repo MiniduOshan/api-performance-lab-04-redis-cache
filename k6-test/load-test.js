@@ -6,5 +6,5 @@ export let options = {
 };
 
 export default function () {
-  http.get("http://localhost:3000/products"); // change to 3001
+  http.get("http://localhost:3001/products");
 }

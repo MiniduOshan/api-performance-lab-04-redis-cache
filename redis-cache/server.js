@@ -9,7 +9,7 @@ const pool = mysql.createPool({
   host: "localhost",
   user: "root",
   password: "",
-  database: "performance_lab_03",
+  database: "perfo_lab_03",
 });
 
 // Redis
